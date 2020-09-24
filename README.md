@@ -5,8 +5,7 @@ Este es un mensaje generado en el mismo repositorio remoto
 ```
 	let num = 0
 	num = 10
-	i=0
-	while(i<num):
+	for i in range(num):
 		print(num+i)
-		i++
+#conflicto solucionado
 ```
